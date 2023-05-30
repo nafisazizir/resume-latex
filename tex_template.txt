@@ -1,0 +1,92 @@
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+%----------------------------------------------------------------------------------------
+%	PERSONAL INFO
+%----------------------------------------------------------------------------------------
+
+[PERSONAL PLACEHOLDER]
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+[EDUCATION PLACEHOLDER]
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% SKILLS SECTION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{SKILLS}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+
+[SKILLS PLACEHOLDER]
+
+\end{tabular}\\
+\vspace{-0.75em}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EXPERIENCES SECTION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{EXPERIENCE}
+
+\textbf{Role Name} \hfill Jan 2017 - Jan 2019\\
+Company Name \hfill \textit{San Francisco, CA}
+\vspace{-0.5em}
+\begin{itemize}
+\itemsep -7pt {} 
+     \item Achieved X\% growth for XYZ using A, B, and C skills.
+     \item Led XYZ which led to X\% of improvement in ABC
+     \item Developed XYZ that did A, B, and C using X, Y, and Z. 
+ \end{itemize}
+ 
+\textbf{Role Name} \hfill Jan 2017 - Jan 2019\\
+Company Name \hfill \textit{San Francisco, CA}
+\vspace{-0.5em}
+ \begin{itemize}
+    \itemsep -3pt {} 
+     \item Achieved X\% growth for XYZ using A, B, and C skills.
+     \item Led XYZ which led to X\% of improvement in ABC
+    \item Developed XYZ that did A, B, and C using X, Y, and Z. 
+ \end{itemize}
+
+\end{rSection} 
+
+%----------------------------------------------------------------------------------------
+%	PROJECTS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+{\bf Universitas Indonesia}
+\vspace{-0.5em}
+\begin{itemize}
+\itemsep -7pt {} 
+     \item Achieved X\% growth for XYZ using A, B, and C skills.
+     \item Led XYZ which led to X\% of improvement in ABC
+     \item Developed XYZ that did A, B, and C using X, Y, and Z. 
+ \end{itemize}
+ \vspace{-0.25em}
+\end{rSection} 
+
+%----------------------------------------------------------------------------------------
+% ACHIEVEMENTS SECTION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Leadership} 
+\begin{itemize}
+    \item Admin for the \href{https://discord.com/invite/WWbjEaZ}{FAANGPath Discord community} with over 6000+ job seekers and industry mentors. Actively involved in facilitating online events, career conversations, and more alongside other admins and a team of volunteer moderators! 
+\end{itemize}
+
+\end{rSection}
+
+
+\end{document}

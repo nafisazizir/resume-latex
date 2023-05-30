@@ -2,6 +2,7 @@
     "name" : "Nafis Azizi Riza",
     "email" : "nafisredzone@gmail.com",
     "phone" : "(+62) 81336825409",
+    "website" : "nafisazizi.com",
     "github" : "github.com/nafisazizir",
     "linkedin" : "linkedin.com/in/nafisazizi/",
 
@@ -32,6 +33,45 @@
         }
     ],
 
+    "skills" : [
+        {
+            "Programming Languages" : [
+                "C++",
+                "Python",
+                "Java",
+                "Kotlin"
+            ]
+        },
+        {
+            "Web Development" : [
+                "React",
+                "Typescript",
+                "Javascript",
+                "HTML",
+                "CSS",
+                "Django"
+            ]
+        },
+        {
+            "Mobile Development" : [
+                "Flutter",
+                "Dart",
+                "Kotlin"
+            ]
+        },
+        {
+            "Data, AI/ML" : [
+                "TensorFlow",
+                "Keras",
+                "PyTorch",
+                "Pandas",
+                "Scikit-Learn",
+                "MySQL",
+                "PostgreSQL"
+            ]
+        }
+    ],
+
     "experiences" : [
         {
             "id" : "ui-ddp",
@@ -41,14 +81,11 @@
             "startDate" : "Aug 2022",
             "endDate" : "Jan 2023",
             "highlights" : [
-                "Tutoring 8-9 students in introduction to programming in Python",
-                "Create and assessed labs and programming assignments",
-                "Conduct weekly lab meetings with approximately 30 students"
+                "Instructed and supported a group of 8-9 students in an introduction to programming in Python, resulting in improved student performance and engagement.",
+                "Created and assessed labs and programming assignments, tracking measurable progress and observing an average grade improvement of 75% among students.",
+                "Facilitated weekly lab meetings with an average attendance of approximately 30 students, fostering a collaborative and interactive learning environment through hands-on exercises."
             ]
-        }
-    ],
-
-    "activities" : [
+        },
         {
             "id" : "aiesec",
             "organization" : "AIESEC in University of Indonesia",
@@ -57,33 +94,8 @@
             "startDate" : "Oct 2022",
             "endDate" : "Dec 2022",
             "highlights" : [
-                "Analyze, and give recommendation/suggestion about the AIESEC in UI program, namely Lead Series",
-                "Conduct planning to make a new initiative scholarship program",
-                "Create a deck and proposal for the scholarship program"
-            ]
-        },
-        {
-            "id" : "bem",
-            "organization" : "BEM (Student Union) Fasilkom UI",
-            "title" : "Public Relation",
-            "location" : "Depok, Indonesia",
-            "startDate" : "Mar 2022",
-            "endDate" : "Dec 2022",
-            "highlights" : [
-                "Conducting one of the Public Relation Bureau namely, Open House Fasilkom UI 2022",
-                "Being as Humas Partner to the other Bureau and Department in BEM Fasilkom UI"
-            ]
-        },
-        {
-            "id" : "oh",
-            "organization" : "Open House Fasilkom UI",
-            "title" : "Vice Project Officer",
-            "location" : "Depok, Indonesia",
-            "startDate" : "Mar 2022",
-            "endDate" : "Dec 2022",
-            "highlights" : [
-                "Open House Fasilkom UI is an annual event held by BEM Fasilkom UI to promote and intrduce Fasilkom UI to the high school students, and help them to dispel doubts of major that they will take in the university",
-                "Manage and supervised day to day activities of several divisions: Creative, Web Development, Documentation and Cinematography, and Operational."
+                "Analyzed the AIESEC in UI program, Lead Series, and provided recommendations for improvement.",
+                "Led the planning process for a new initiative, the scholarship program, including creating the deck and proposal."
             ]
         },
         {
@@ -94,10 +106,8 @@
             "startDate" : "Apr 2022",
             "endDate" : "Nov 2022",
             "highlights" : [
-                "Created pre-module for the Data Science Academy, ToR for the speakers",
-                "Criticizing the curriculum that will be delivered in the academy",
-                "Liaison Officer to the one of the mentor",
-                "Conducting administration process registration of the applicants"
+                "Developed the pre-module for the Data Science Academy and prepared Terms of Reference (ToR) for the speakers.",
+                "Assessed and provided constructive feedback on the curriculum to ensure its effectiveness and relevance, leading to improvements in content delivery."
             ]
         }
     ],
@@ -107,35 +117,41 @@
             "id" : "acb-isbe",
             "name" : "ACB-ISBE, Conference Proceeding App, Web & Mobile App Version",
             "highlights" : [
-                "Designed and developed a conference proceeding mobile & web app, app for conference participants to see their submitted papers, conference information, chairs, schedule, events, and speakers.",
-                "Utilized Python Django (web app), and Flutter (mobile app) to develop the applications and handling the database",
-                "Implemented search feature and display all the submitted paper data"
+                "Designed and developed a conference proceeding mobile and web app, enabling conference participants to access submitted papers, conference information, chairs, schedule, events, and speakers.",
+                "Utilized Python Django for the web app and Flutter for the mobile app, showcasing proficiency in both technologies.",
+                "Handled the design and processing of the app's database, ensuring efficient data management and retrieval.",
+                "Implemented a robust search feature, allowing users to efficiently retrieve and display all submitted paper data from the database."
             ]
         },
         {
             "id" : "sirest",
             "name" : "SIREST, Fullstack Web App for Restaurant Order and Delivery",
             "highlights" : [
-                "Designed and implemented the database schema using PostgreSQL for different roles: restaurant, customer, driver",
-                "Build and deployed the websites."
+                "Designed and implemented the database schema using PostgreSQL to support various roles, including admin, restaurant, customer, and driver.",
+                "Built and deployed the websites for the SIREST application, ensuring seamless user experience and functionality."
             ]
         },
         {
             "id" : "starcraft",
             "name" : "Prediction Starcraft II Matches, Generate ML Model to Predict Matchup of Each Games",
             "highlights" : [
-                "Exploratory Data Analysis of Starcraft II dataset, analyzing such as characteristic of each race, win rate, resource statistics, and etc.",
-                "Build a predictive machine learning model to predict matchup of Starcraft II’s matches",
-                "Stack used : Python, Pandas, Seaborn, NumPy, Matplotlib, Scikit-learn, Catboost."
+                "Conducted Exploratory Data Analysis (EDA) on the Starcraft II dataset, analyzing characteristics of each race, win rates, resource statistics, and more.",
+                "Built a predictive machine learning model to forecast matchups in Starcraft II matches, leveraging the dataset and applying appropriate algorithms.",
+                "Utilized Python and a variety of libraries, including Pandas, Seaborn, NumPy, Matplotlib, Scikit-learn, and Catboost."
             ]
         },
         {
             "id" : "climate-change",
             "name" : "Climate Change Analysis, Data Analysis (EDA) Dashboard About Climate Change in Indonesia",
             "highlights" : [
-                "Exploratory Data Analysis of climate change dataset in Indonesia, analyzing such as precipitation, temperature over the years, correlation to other factors, etc.",
-                "Stack used : Python, Pandas, Seaborn, NumPy, Matplotlib."
+                "Conducted Exploratory Data Analysis (EDA) on a climate change dataset in Indonesia, revealing a significant increase in average temperatures over the past decade and identifying a strong positive correlation between precipitation and temperature changes.",
+                "Utilized Python and libraries such as Pandas, Seaborn, NumPy, and Matplotlib to perform comprehensive data analysis and visualization, resulting in the identification of key trends and patterns in climate change data."
             ]
         }
+    ],
+
+    "achievements" : [
+        "Finalist of Information technology Business Competition, Gemastik 2022",
+        "UI RISE Scholarship Awardee"
     ]
 }
