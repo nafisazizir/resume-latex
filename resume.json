@@ -1,7 +1,7 @@
 {
     "name" : "Nafis Azizi Riza",
     "email" : "nafisredzone@gmail.com",
-    "phone" : "(+62) 81336825409",
+    "phone" : "+6281336825409",
     "website" : "nafisazizi.com",
     "github" : "github.com/nafisazizir",
     "linkedin" : "linkedin.com/in/nafisazizi/",
@@ -106,7 +106,7 @@
             "startDate" : "Apr 2022",
             "endDate" : "Nov 2022",
             "highlights" : [
-                "Developed the pre-module for the Data Science Academy and prepared Terms of Reference (ToR) for the speakers.",
+                "Developed the pre-module for the Data Science Academy and prepared ToR for the speakers.",
                 "Assessed and provided constructive feedback on the curriculum to ensure its effectiveness and relevance, leading to improvements in content delivery."
             ]
         }
@@ -117,35 +117,30 @@
             "id" : "acb-isbe",
             "name" : "ACB-ISBE, Conference Proceeding App, Web & Mobile App Version",
             "highlights" : [
-                "Designed and developed a conference proceeding mobile and web app, enabling conference participants to access submitted papers, conference information, chairs, schedule, events, and speakers.",
-                "Utilized Python Django for the web app and Flutter for the mobile app, showcasing proficiency in both technologies.",
-                "Handled the design and processing of the app's database, ensuring efficient data management and retrieval.",
-                "Implemented a robust search feature, allowing users to efficiently retrieve and display all submitted paper data from the database."
+                "Designed and developed an app to enable conference participants to access various informations of the conference using Python Django and Flutter.",
+                "Handled the design and processing of the app's database, and implemented a robust search feature"
             ]
         },
         {
             "id" : "sirest",
             "name" : "SIREST, Fullstack Web App for Restaurant Order and Delivery",
             "highlights" : [
-                "Designed and implemented the database schema using PostgreSQL to support various roles, including admin, restaurant, customer, and driver.",
-                "Built and deployed the websites for the SIREST application, ensuring seamless user experience and functionality."
+                "Designed and implemented the database schema using PostgreSQL.",
+                "Built and deployed the websites by utilizing Python Django, ensuring seamless user experience and functionality."
             ]
         },
         {
             "id" : "starcraft",
             "name" : "Prediction Starcraft II Matches, Generate ML Model to Predict Matchup of Each Games",
             "highlights" : [
-                "Conducted Exploratory Data Analysis (EDA) on the Starcraft II dataset, analyzing characteristics of each race, win rates, resource statistics, and more.",
-                "Built a predictive machine learning model to forecast matchups in Starcraft II matches, leveraging the dataset and applying appropriate algorithms.",
-                "Utilized Python and a variety of libraries, including Pandas, Seaborn, NumPy, Matplotlib, Scikit-learn, and Catboost."
+                "Conducted EDA and built a predictive machine learning model to forecast matchups in Starcraft II matches."
             ]
         },
         {
             "id" : "climate-change",
             "name" : "Climate Change Analysis, Data Analysis (EDA) Dashboard About Climate Change in Indonesia",
             "highlights" : [
-                "Conducted Exploratory Data Analysis (EDA) on a climate change dataset in Indonesia, revealing a significant increase in average temperatures over the past decade and identifying a strong positive correlation between precipitation and temperature changes.",
-                "Utilized Python and libraries such as Pandas, Seaborn, NumPy, and Matplotlib to perform comprehensive data analysis and visualization, resulting in the identification of key trends and patterns in climate change data."
+                "Conducted EDA on a climate change dataset in Indonesia, by utilizing Python libraries, resulting in the identification of key trends and patterns in climate change data."
             ]
         }
     ],
