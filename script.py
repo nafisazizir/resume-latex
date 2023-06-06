@@ -11,7 +11,7 @@ def personal_info(data):
     name_tex = fr"\name{{{name}}}"
     email_tex = fr"\href{{mailto:{email}}}{{{email}}}"
     phone_tex = fr"\href{{tel:{phone}}}{{{phone}}}"
-    website_tex = fr"\href{{www.{website}}}{{{website}}}"
+    website_tex = fr"\href{{https://{website}}}{{{website}}}"
     github_tex = fr"\href{{https://{github}}}{{{github}}}"
     linkedin_tex = fr"\href{{https://{linkedin}}}{{{linkedin}}}"
     addr_tex = fr"\address{{{email_tex} \\ {phone_tex} \\ {website_tex} \\ {github_tex} \\ {linkedin_tex}}}"

@@ -55,19 +55,19 @@
         {
             "Mobile Development" : [
                 "Flutter",
-                "Dart",
-                "Kotlin"
+                "Dart"
             ]
         },
         {
             "Data, AI/ML" : [
+                "MySQL",
+                "PostgreSQL",
+                "MongoDB",
                 "TensorFlow",
                 "Keras",
                 "PyTorch",
                 "Pandas",
-                "Scikit-Learn",
-                "MySQL",
-                "PostgreSQL"
+                "Scikit-Learn"
             ]
         }
     ],
@@ -88,7 +88,7 @@
         },
         {
             "id" : "aiesec",
-            "organization" : "AIESEC in University of Indonesia",
+            "organization" : "AIESEC in Universitas Indonesia",
             "title" : "Project Dev Intern, Business Dev Dept.",
             "location" : "Depok, Indonesia",
             "startDate" : "Oct 2022",
