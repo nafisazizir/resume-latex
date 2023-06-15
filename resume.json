@@ -43,17 +43,13 @@
             ]
         },
         {
-            "Web Development" : [
+            "Web/Mobile Development" : [
                 "React",
                 "Typescript",
                 "Javascript",
                 "HTML",
                 "CSS",
-                "Django"
-            ]
-        },
-        {
-            "Mobile Development" : [
+                "Django",
                 "Flutter",
                 "Dart"
             ]
@@ -66,7 +62,6 @@
                 "TensorFlow",
                 "Keras",
                 "PyTorch",
-                "Pandas",
                 "Scikit-Learn"
             ]
         }
@@ -113,6 +108,15 @@
     ],
 
     "projects" : [
+        {
+            "id" : "matkulgue",
+            "name" : "MatkulGue, University Course Catalog, Timetable Builder, and Course Planner",
+            "highlights" : [
+                "Developed a MERN stack web application for creating a course catalog and building personalized timetables",
+                "Scraped the course information from the university official websites and setting up the database",
+                "Improved scheduling efficiency and received positive user feedback on the user-friendly interface and unique feature"
+            ]
+        },
         {
             "id" : "acb-isbe",
             "name" : "ACB-ISBE, Conference Proceeding App, Web & Mobile App Version",

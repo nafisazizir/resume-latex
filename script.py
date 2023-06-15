@@ -40,7 +40,7 @@ def education(data):
                 res_tex += fr"\item {item}" + "\n"
 
             res_tex += fr" \end{{itemize}}" + \
-                "\n" + fr" \vspace{{-0.25em}}" + "\n"
+                "\n" + fr" \vspace{{-0.5em}}" + "\n"
 
         res_tex += "\n"
 
@@ -86,7 +86,7 @@ def experiences(data):
                 res_tex += fr"\item {item}" + "\n"
 
             res_tex += fr" \end{{itemize}}" + \
-                "\n" + fr" \vspace{{-0.25em}}" + "\n"
+                "\n" + fr" \vspace{{-0.5em}}" + "\n"
 
         res_tex += "\n"
 
@@ -112,7 +112,7 @@ def projects(data):
                 res_tex += fr"\item {item}" + "\n"
 
             res_tex += fr" \end{{itemize}}" + \
-                "\n" + fr" \vspace{{-0.25em}}" + "\n"
+                "\n" + fr" \vspace{{-0.5em}}" + "\n"
 
         res_tex += "\n"
 
@@ -131,7 +131,7 @@ def achievements(data):
             res_tex += fr"\item {item}" + "\n"
 
         res_tex += fr" \end{{itemize}}" + \
-            "\n" + fr" \vspace{{-0.25em}}" + "\n"
+            "\n" + fr" \vspace{{-0.5em}}" + "\n"
 
     res_tex += "\n"
 
