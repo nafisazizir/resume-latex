@@ -1,0 +1,35 @@
+Agile
+API
+Adaptive design
+bootstrap
+backend
+browser
+bug
+cache
+code
+debugging
+documentation
+domain name
+frameworks
+frontend
+fullstack
+http
+information architecture
+jquery
+minimifaction
+mobile-first
+mvp
+operating system
+php
+plugin
+resolution
+responsive design
+ruby
+sitemap
+software stack
+ssl
+text editor
+ui design
+ux design
+version control
+wireframe
