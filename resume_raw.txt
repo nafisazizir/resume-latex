@@ -1,0 +1,52 @@
+NAFIS AZIZI RIZA
+nafisredzone@gmail.com | +6281336825409 | nafisazizi.com | github.com/nafisazizir | linkedin.com/in/nafisazizi/
+EDUCATION
+Universitas Indonesia Aug 2021 - Jun 2025
+• Bachelor of Computer Science / Sarjana Ilmu Komputer (S.Kom), Cumulative GPA: 3.75/4.0
+• Relevant Coursework: Data Structure & Algorithm, Platform Based Development, Database, Operating
+System, Computer Organization
+National University of Singapore Jan 2023 - May 2023
+• Exchange students under ASEAN University Network Program, awarded UI RISE Scholarship
+• Coursework: Design and Analysis of Algorithm, Interaction Design, Computer Network, Software Engineer-
+ing & OOP, Programming Methodology II
+ SKILLS
+Programming Languages Web/Mobile Development Data, AI/ML
+EXPERIENCE
+Teaching Assistant
+Universitas Indonesia
+• Instructed and supported a group of 8-9 students resulting in improved student performance and engagement.
+• Facilitated weekly lab meetings, created and assessed labs and programming assignments, tracking measur-
+able progress and observing an average grade improvement of 75% among students.
+Project Dev Intern, Business Dev Dept. Oct 2022 - Dec 2022 AIESEC in Universitas Indonesia Depok, Indonesia
+• An international global platform for youth to develop their leadership potential through practical experiences. • Analyzed the AIESEC in UI program, Lead Series, and provided recommendations for improvement.
+• Led the planning process for a new initiative, scholarship program, including creating the deck and proposal.
+Data Science Academy Staff Apr 2022 - Nov 2022 Data Science Academy - COMPFEST 14 Depok, Indonesia
+• The biggest IT event in Indonesia held by students, aims to maximize the potential of technology.
+• Developed the pre-module for the Data Science Academy (ML Libraries, Statistics, Python tools) and pre-
+pared ToR for the speakers.
+• Assessed the curriculum to ensure its effectiveness and relevance, leading to improvements in content delivery.
+PROJECTS
+MatkulGue, University Course Catalog, Timetable Builder, and Course Planner
+• Developed a MERN stack web application for creating a course catalog and building personalized timetables
+• Scraped the course information from the university official websites and setting up the database
+• Improved scheduling efficiency and received positive user feedback on the user-friendly interface and unique
+feature
+ACB-ISBE, Conference Proceeding App, Web & Mobile App Version
+• Designed and developed an app to enable conference participants to access various informations of the conference using Python Django and Flutter.
+• Handled the design and processing of the app’s database, and implemented a robust search feature
+SIREST, Fullstack Web App for Restaurant Order and Delivery
+• Designed and implemented the database schema using PostgreSQL.
+• Built and deployed the websites by utilizing Python Django, ensuring seamless user experience and function-
+ality.
+Prediction Starcraft II Matches, Generate ML Model to Predict Matchup of Each Games
+• Conducted EDA and built a predictive machine learning model to forecast matchups in Starcraft II matches.
+Climate Change Analysis, Data Analysis (EDA) Dashboard About Climate Change in Indonesia
+• Conducted EDA on a climate change dataset in Indonesia, by utilizing Python libraries, resulting in the identification of key trends and patterns in climate change data.
+ACHIEVEMENTS
+• Top 20 of Information technology Business Competition, Gemastik 2022. The biggest IT compe- tition in Indonesia held by Ministry of Education.
+ C++, Python, Java, Kotlin
+React, Typescript, Javascript, HTML, CSS, Django, Flutter, Dart
+MySQL, PostgreSQL, MongoDB, TensorFlow, Keras, PyTorch, Scikit-Learn
+Aug 2022 - Jan 2023
+ Depok, Indonesia
+  

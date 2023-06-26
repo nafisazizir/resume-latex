@@ -27,7 +27,7 @@
             "startDate" : "Jan 2023",
             "endDate" : "May 2023",
             "highlights" : [
-                "Exchange students under ASEAN University Network Program",
+                "Exchange students under ASEAN University Network Program, awarded UI RISE Scholarship",
                 "Coursework: Design and Analysis of Algorithm, Interaction Design, Computer Network, Software Engineering & OOP, Programming Methodology II"
             ]
         }
@@ -76,9 +76,8 @@
             "startDate" : "Aug 2022",
             "endDate" : "Jan 2023",
             "highlights" : [
-                "Instructed and supported a group of 8-9 students in an introduction to programming in Python, resulting in improved student performance and engagement.",
-                "Created and assessed labs and programming assignments, tracking measurable progress and observing an average grade improvement of 75% among students.",
-                "Facilitated weekly lab meetings with an average attendance of approximately 30 students, fostering a collaborative and interactive learning environment through hands-on exercises."
+                "Taught and mentored a group of 8-9 students resulting in improved student performance and engagement.",
+                "Led weekly lab meetings, created and assessed labs and programming assignments, tracking measurable progress and observing an average grade improvement of 75% among students."
             ]
         },
         {
@@ -89,8 +88,9 @@
             "startDate" : "Oct 2022",
             "endDate" : "Dec 2022",
             "highlights" : [
-                "Analyzed the AIESEC in UI program, Lead Series, and provided recommendations for improvement.",
-                "Led the planning process for a new initiative, the scholarship program, including creating the deck and proposal."
+                "An international global platform for youth to develop their leadership potential through practical experiences.",
+                "Evaluated annual program, Lead Series 2022, and proposed actionable recommendations for improvement.",
+                "Led the planning process for a new initiative, scholarship program, including creating the deck and proposal."
             ]
         },
         {
@@ -101,8 +101,9 @@
             "startDate" : "Apr 2022",
             "endDate" : "Nov 2022",
             "highlights" : [
-                "Developed the pre-module for the Data Science Academy and prepared ToR for the speakers.",
-                "Assessed and provided constructive feedback on the curriculum to ensure its effectiveness and relevance, leading to improvements in content delivery."
+                "The biggest IT event in Indonesia held by students, aims to maximize the potential of technology.",
+                "Developed 7+ the \\href{https://south-tomato-2e2.notion.site/Pre-Module-Data-Science-Academy-ee098d9d28b7496eb45d3cd2555e1168?pvs=4}{pre-module for the Data Science Academy} (ML Libraries, Statistics, Python tools) and prepared ToR for the speakers.",
+                "Measured the curriculum to ensure its effectiveness & relevance, leading to improvements in content delivery."
             ]
         }
     ],
@@ -112,45 +113,45 @@
             "id" : "matkulgue",
             "name" : "MatkulGue, University Course Catalog, Timetable Builder, and Course Planner",
             "highlights" : [
-                "Developed a MERN stack web application for creating a course catalog and building personalized timetables",
-                "Scraped the course information from the university official websites and setting up the database",
-                "Improved scheduling efficiency and received positive user feedback on the user-friendly interface and unique feature"
+                "Built a MERN stack web application for creating a course catalog and building personalized timetables. Incorporated a RESTful API to provide secure and efficient data access, enabling seamless integration.",
+                "Scraped the course information (6K+) from the university official websites and setting up the database",
+                "Improved scheduling efficiency & received positive feedback on the user-friendly interface and unique feature"
             ]
         },
         {
             "id" : "acb-isbe",
             "name" : "ACB-ISBE, Conference Proceeding App, Web & Mobile App Version",
             "highlights" : [
-                "Designed and developed an app to enable conference participants to access various informations of the conference using Python Django and Flutter.",
-                "Handled the design and processing of the app's database, and implemented a robust search feature"
+                "Designed and developed an app to enable conference participants to access various informations of the conference using Python Django framework and Flutter.",
+                "Managed the design and processing of the app's database, and created a robust search feature",
+                "Implemented HTTP GET and POST endpoints in the backend to retrieve and submit data securely."
             ]
         },
         {
             "id" : "sirest",
             "name" : "SIREST, Fullstack Web App for Restaurant Order and Delivery",
             "highlights" : [
-                "Designed and implemented the database schema using PostgreSQL.",
-                "Built and deployed the websites by utilizing Python Django, ensuring seamless user experience and functionality."
+                "Designed and executed the database schema using PostgreSQL.",
+                "Built and deployed the websites by utilizing Django, ensuring seamless user experience and functionality."
             ]
         },
         {
             "id" : "starcraft",
             "name" : "Prediction Starcraft II Matches, Generate ML Model to Predict Matchup of Each Games",
             "highlights" : [
-                "Conducted EDA and built a predictive machine learning model to forecast matchups in Starcraft II matches."
+                "Performed EDA and made a predictive machine learning model to forecast matchups in Starcraft II matches with 80% accuracy."
             ]
         },
         {
             "id" : "climate-change",
             "name" : "Climate Change Analysis, Data Analysis (EDA) Dashboard About Climate Change in Indonesia",
             "highlights" : [
-                "Conducted EDA on a climate change dataset in Indonesia, by utilizing Python libraries, resulting in the identification of key trends and patterns in climate change data."
+                "Carried out \\href{https://nafisazizir-tetrisprogram-dashboard-eup8c6.streamlit.app/}{EDA on a climate change dataset in Indonesia}, by utilizing libraries, resulting in the identification of key trends and patterns in climate change data."
             ]
         }
     ],
 
     "achievements" : [
-        "Finalist of Information technology Business Competition, Gemastik 2022",
-        "UI RISE Scholarship Awardee"
+        "\\textbf{Top 20 (from 200+ teams) of Information technology Business Competition, Gemastik 2022.} The biggest IT competition in Indonesia held by Ministry of Education."
     ]
 }

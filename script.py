@@ -90,7 +90,8 @@ def experiences(data):
 
         res_tex += "\n"
 
-    return res_tex.replace("%", "\%")
+    res_tex = res_tex.replace("%", "\%")
+    return res_tex.replace("&", fr"\&")
 
 
 def projects(data):
@@ -116,6 +117,7 @@ def projects(data):
 
         res_tex += "\n"
 
+    res_tex = res_tex.replace("%", "\%")
     return res_tex.replace("&", fr"\&")
 
 
