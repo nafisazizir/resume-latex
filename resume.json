@@ -11,7 +11,7 @@
             "id" : "ui",
             "institution" : "Universitas Indonesia",
             "degree" : "Computer Science, Bachelor degree",
-            "location" : "Depok, Indonesia",
+            "location" : "Jakarta, Indonesia",
             "startDate" : "Aug 2021",
             "endDate" : "Jun 2025",
             "highlights" : [
@@ -69,10 +69,21 @@
 
     "experiences" : [
         {
+            "id" : "swe-telkom",
+            "organization" : "Telkom Indonesia",
+            "title" : "Software Engineer Intern",
+            "location" : "Jakarta, Indonesia",
+            "startDate" : "Jul 2023",
+            "endDate" : "Present",
+            "highlights" : [
+                ""
+            ]
+        },
+        {
             "id" : "ui-ddp",
             "organization" : "Universitas Indonesia",
             "title" : "Teaching Assistant",
-            "location" : "Depok, Indonesia",
+            "location" : "Jakarta, Indonesia",
             "startDate" : "Aug 2022",
             "endDate" : "Jan 2023",
             "highlights" : [
@@ -81,29 +92,27 @@
             ]
         },
         {
-            "id" : "aiesec",
-            "organization" : "AIESEC in Universitas Indonesia",
-            "title" : "Project Dev Intern, Business Dev Dept.",
-            "location" : "Depok, Indonesia",
-            "startDate" : "Oct 2022",
-            "endDate" : "Dec 2022",
-            "highlights" : [
-                "An international global platform for youth to develop their leadership potential through practical experiences.",
-                "Evaluated annual program, Lead Series 2022, and proposed actionable recommendations for improvement.",
-                "Led the planning process for a new initiative, scholarship program, including creating the deck and proposal."
-            ]
-        },
-        {
             "id" : "compfest",
             "organization" : "Data Science Academy - COMPFEST 14",
             "title" : "Data Science Academy Staff",
-            "location" : "Depok, Indonesia",
+            "location" : "Jakarta, Indonesia",
             "startDate" : "Apr 2022",
             "endDate" : "Nov 2022",
             "highlights" : [
-                "The biggest IT event in Indonesia held by students, aims to maximize the potential of technology.",
-                "Developed 7+ the \\href{https://south-tomato-2e2.notion.site/Pre-Module-Data-Science-Academy-ee098d9d28b7496eb45d3cd2555e1168?pvs=4}{pre-module for the Data Science Academy} (ML Libraries, Statistics, Python tools) and prepared ToR for the speakers.",
-                "Measured the curriculum to ensure its effectiveness & relevance, leading to improvements in content delivery."
+                "The biggest IT event in Indonesia organized by students, aims to maximize the potential of technology.",
+                "Developed 7+ the \\href{https://south-tomato-2e2.notion.site/Pre-Module-Data-Science-Academy-ee098d9d28b7496eb45d3cd2555e1168?pvs=4}{pre-module for the Data Science Academy} (ML Libraries, Statistics, Python tools) and measured the curriculum to ensure its effectiveness & relevance."
+            ]
+        },
+        {
+            "id" : "dqlab",
+            "organization" : "DQLab",
+            "title" : "Data Analyst",
+            "location" : "Jakarta, Indonesia",
+            "startDate" : "July 2022",
+            "endDate" : "Aug 2022",
+            "highlights" : [
+                "Attained a highly competitive position among 153/8,978 through demonstrated expertise and qualifications.",
+                "Conducted a comprehensive climate change analysis as the final project, reaching a user base of 20+."
             ]
         }
     ],
@@ -122,17 +131,16 @@
             "id" : "acb-isbe",
             "name" : "ACB-ISBE, Conference Proceeding App, Web & Mobile App Version",
             "highlights" : [
-                "Designed and developed an app to enable conference participants to access various informations of the conference using Python Django framework and Flutter.",
-                "Managed the design and processing of the app's database, and created a robust search feature",
-                "Implemented HTTP GET and POST endpoints in the backend to retrieve and submit data securely."
+                "Designed and developed an app to enable 1600+ conference participants to access various informations of the conference using Python Django framework and Flutter.",
+                "Managed the design and processing of the 500+ app's data, and created a robust search feature"
             ]
         },
         {
             "id" : "sirest",
             "name" : "SIREST, Fullstack Web App for Restaurant Order and Delivery",
             "highlights" : [
-                "Designed and executed the database schema using PostgreSQL.",
-                "Built and deployed the websites by utilizing Django, ensuring seamless user experience and functionality."
+                "Designed and executed the database schema using PostgreSQL alongside with a team of 5.",
+                "Built the app by utilizing Django for 4 different roles, ensuring seamless user experience and functionality."
             ]
         },
         {
@@ -146,7 +154,7 @@
             "id" : "climate-change",
             "name" : "Climate Change Analysis, Data Analysis (EDA) Dashboard About Climate Change in Indonesia",
             "highlights" : [
-                "Carried out \\href{https://nafisazizir-tetrisprogram-dashboard-eup8c6.streamlit.app/}{EDA on a climate change dataset in Indonesia}, by utilizing libraries, resulting in the identification of key trends and patterns in climate change data."
+                "Carried out \\href{https://nafisazizir-tetrisprogram-dashboard-eup8c6.streamlit.app/}{EDA on a climate change dataset in Indonesia}, by utilizing libraries, resulting in the identification of key trends and patterns in climate change data, achieved 20+ users."
             ]
         }
     ],
